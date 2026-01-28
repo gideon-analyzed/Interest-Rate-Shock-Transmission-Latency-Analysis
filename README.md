@@ -132,4 +132,4 @@ This project demonstrates **production-ready quantitative research capabilities*
 
 ---
 
-© 2026 Paul Gideon Wabwire | Quantitative Analyst | For recruitment inquiries: paul.wabwire@email.com
+© 2025 Paul Gideon Wabwire
