@@ -128,7 +128,7 @@ This project demonstrates **production-ready quantitative research capabilities*
 🔹 **Business Translation**: Converting latency metrics into actionable trading/risk management protocols  
 🔹 **Production Mindset**: Data engineering practices (winsorisation, holiday alignment) matching institutional standards  
 
-*Developed as part of BSc Data Science & AI coursework at University of London. All analysis follows CFA Institute standards for quantitative research integrity.*
+*Developed as part of BSc Data Science & AI coursework at University of Portsmouth. All analysis follows CFA Institute standards for quantitative research integrity.*
 
 ---
 
